@@ -1,0 +1,15 @@
+Switch>en
+Switch>enable 
+%LINK-5-CHANGED: Interface GigabitEthernet1/0/1, changed state to up
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet1/0/1, changed state to up
+
+%LINK-5-CHANGED: Interface GigabitEthernet1/0/2, changed state to up
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet1/0/2, changed state to up
+
+Switch con0 is now available
+
+Press RETURN to get started.
+
+Switch>exit
